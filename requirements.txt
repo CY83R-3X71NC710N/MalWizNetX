@@ -1,0 +1,8 @@
+
+
+# Requirements for MalWizNetX
+
+opencv-python==4.4.0
+numpy==1.19.2
+networkx==2.5
+scikit-learn==0.23.2
